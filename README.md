@@ -1,7 +1,9 @@
 ## Hi there, I am Antoni Łakomy 👋
 
 🎓 I'm Computer Science student at AGH University of Krakow
+
 🌱 Diving deep into IT, learning Java, Python, Web Technologies and many more...
+
 💡 I'm also a Lighting Designer, mainly producing shows for Another Pink Floyd
 
 <!--
