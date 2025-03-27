@@ -1,4 +1,4 @@
-## Hi there, I am Antoni Łakomy 👋
+# Hi there, I am Antoni Łakomy 👋
 
 🎓 I'm Computer Science student at AGH University of Krakow
 
