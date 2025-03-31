@@ -32,6 +32,9 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/antoni-lakomy/antoni-lakomy/output/snake.svg" alt="Snake animation" />
+<div align="center">
 
-###
+![snake gif](https://github.com/antoni-lakomy/antoni-lakomy/blob/output/github-snake-dark.svg)
+
+</div>
+
