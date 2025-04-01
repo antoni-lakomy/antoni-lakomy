@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Antoni Łakomy</h1>
-<h3 align="center">🚀 Aspiring Software Engineer | Computer Science student passionate about problem-solving, clean code, and continuous learning. Excited to build, optimize, and contribute — let’s collaborate!"</h3>
+<h3 align="center">🚀 Aspiring Software Engineer | Computer Science student passionate about problem-solving, clean code, and continuous learning. Excited to build, optimize, and contribute — let’s collaborate!</h3>
 
 <br/>
 <h2 align="left">🤝 Connect with me:</h2>
