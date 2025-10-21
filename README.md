@@ -15,7 +15,7 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Sql-1772AB?logo=mysql&logoColor=black&style=for-the-bad" height="30" alt="sql logo"  />
+  <img src="https://img.shields.io/badge/SQL-1572B6?logo=mysql&logoColor=black&style=for-the-badge" height="30" alt="SQL logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
   <img width="12" />
